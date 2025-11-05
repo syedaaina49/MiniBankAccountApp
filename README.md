@@ -1,2 +1,2 @@
 # MiniBankAccountApp
-Mini Bank Account Application Design(windows form);Using C# (Object Orient Program
+Mini Bank Account Application Design(windows form);Using C# (Object Oriented Program)
